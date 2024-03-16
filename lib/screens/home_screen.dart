@@ -1,7 +1,7 @@
 import 'dart:convert';
 
 import 'package:flutter/material.dart';
-import 'package:flutter_application/screens/second_screen.dart';
+import 'package:quote/screens/second_screen.dart';
 import 'package:http/http.dart' as http;
 
 class HomeScreen extends StatelessWidget {
